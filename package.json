@@ -1,0 +1,23 @@
+{
+  "name": "bash-websocket",
+  "version": "1.0.0",
+  "description": "bash through websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incizzle/bash-websocket.git"
+  },
+  "author": "iNcizzle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incizzle/bash-websocket/issues"
+  },
+  "homepage": "https://github.com/incizzle/bash-websocket#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ws": "^6.2.1"
+  }
+}
